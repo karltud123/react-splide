@@ -1,5 +1,5 @@
 {
-  "name": "@splidejs/react-splide",
+  "name": "@karltud123/react-splide",
   "version": "0.7.12",
   "description": "The React component for Splide.",
   "author": "Naotoshi Fujita",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Splidejs/react-splide.git"
+    "url": "git+https://github.com/Splidejs/react-splide.git"
   },
   "bugs": {
     "url": "https://github.com/Splidejs/react-splide/issues"
